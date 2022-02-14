@@ -17,7 +17,6 @@ C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharp
 C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.csproj.CoreCompileInputs.cache
 C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.dll
 C:\git\B1_Vertaalopdracht_DO1_CSharpReg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.pdb
-C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.csproj.AssemblyReference.cache
 C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.AssemblyInfoInputs.cache
 C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.AssemblyInfo.cs
