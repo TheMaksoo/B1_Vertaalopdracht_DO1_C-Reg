@@ -20,6 +20,7 @@ namespace CSharpReg
             while (keuze != "9")
             {
                 Console.Clear();
+                // dit is heel stom
                 Console.WriteLine("======== HOOFDMENU =========");
                 Console.WriteLine("1. Nieuwe bon");
                 Console.WriteLine("2. Retour");
@@ -105,14 +106,27 @@ namespace CSharpReg
                     }
                 }
                 // TODO: If-statement corrigeren
-                else if (keuze == 2)
+                else if (keuze == "2")
                 {
                     // TODO: Afmaken
+                    Console.WriteLine("Uitvoeren terugbetaling");
+                    Console.WriteLine("Bedrag originele bon: ");
+                    decimal terugTeGeven = Console.ReadLine();
+                    Console.WriteLine("Reden retour: ");
+                    string reden = Console.ReadLine();
+
+
                 }
                 // TODO: If-statement corrigeren
-                else if (keuze == 3)
+                else if (keuze == "3")
                 {
                     // TODO: Afmaken
+                    Console.Writeline("======= DAG TOTALEN ========");
+                    Console.Writeline("In kassa begin:   " + bedragInKassaBegin);
+                    Console.Writeline("Verkocht:         " + dagTotaal);
+                    Console.Writeline("Retour:           " + dagTotaalTerug);
+                    Console.Writeline("In kassa:         " + bedragInKassaBegin + dagTotaal - dagTotaalTerug);
+                    Console.WriteLine("Druk op <ENTER> om door te gaan.");
                 }
             }
             Console.WriteLine("Hoeveel zit er nu in de kassa?");
