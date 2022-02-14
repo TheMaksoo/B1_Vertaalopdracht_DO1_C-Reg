@@ -111,7 +111,7 @@ namespace CSharpReg
                     // TODO: Afmaken
                     Console.WriteLine("Uitvoeren terugbetaling");
                     Console.WriteLine("Bedrag originele bon: ");
-                    decimal terugTeGeven = Console.ReadLine();
+                    decimal terugTeGeven = Convert.ToDecimal(Console.ReadLine());
                     Console.WriteLine("Reden retour: ");
                     string reden = Console.ReadLine();
 
@@ -121,11 +121,11 @@ namespace CSharpReg
                 else if (keuze == "3")
                 {
                     // TODO: Afmaken
-                    Console.Writeline("======= DAG TOTALEN ========");
-                    Console.Writeline("In kassa begin:   " + bedragInKassaBegin);
-                    Console.Writeline("Verkocht:         " + dagTotaal);
-                    Console.Writeline("Retour:           " + dagTotaalTerug);
-                    Console.Writeline("In kassa:         " + bedragInKassaBegin + dagTotaal - dagTotaalTerug);
+                    Console.WriteLine("======= DAG TOTALEN ========");
+                    Console.WriteLine("In kassa begin:   " + bedragInKassaBegin);
+                    Console.WriteLine("Verkocht:         " + dagTotaal);
+                    Console.WriteLine("Retour:           " + dagTotaalTerug);
+                    Console.WriteLine("In kassa:         " + (bedragInKassaBegin + dagTotaal - dagTotaalTerug));
                     Console.WriteLine("Druk op <ENTER> om door te gaan.");
                 }
             }
