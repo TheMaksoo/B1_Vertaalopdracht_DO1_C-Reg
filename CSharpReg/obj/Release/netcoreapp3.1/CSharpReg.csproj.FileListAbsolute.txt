@@ -1,0 +1,13 @@
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.exe
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.deps.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.runtimeconfig.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.runtimeconfig.dev.json
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Release\netcoreapp3.1\CSharpReg.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.AssemblyInfoInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.AssemblyInfo.cs
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.csproj.CoreCompileInputs.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.dll
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.pdb
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Release\netcoreapp3.1\CSharpReg.genruntimeconfig.cache
