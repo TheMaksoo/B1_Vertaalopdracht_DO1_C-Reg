@@ -30,3 +30,4 @@ C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg
 C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.dll
 C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\bin\Debug\netcoreapp3.1\CSharpReg.pdb
 C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.genruntimeconfig.cache
+C:\Users\maxva\OneDrive\Documenten\GitHub\B1_Vertaalopdracht_DO1_C-Reg\CSharpReg\obj\Debug\netcoreapp3.1\CSharpReg.csproj.AssemblyReference.cache
